@@ -1,317 +1,113 @@
-1651144368906	geckodriver	INFO	Listening on 127.0.0.1:2822
-1651144372030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2823" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofile5pwKm0"
-1651144373827	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofile5pwKm0\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:2823/devtools/browser/15fefd42-3230-426e-b64c-d5d86ec5e93a
-1651144377255	Marionette	INFO	Listening on port 2859
-Read port: 2859
-1651144377415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-JavaScript error: , line 0: uncaught exception: undefined
-1651144385591	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
-TimedPromise@chrome://remote/content/marionette/sync.js:220:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-1651144386330	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
-TimedPromise@chrome://remote/content/marionette/sync.js:220:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
-1651144387666	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
-TimedPromise@chrome://remote/content/marionette/sync.js:220:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
-JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
-JavaScript error: , line 0: uncaught exception: undefined
-JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
-1651144612166	Marionette	INFO	Stopped listening on port 2859
+1649856308423	geckodriver	INFO	Listening on 127.0.0.1:10813
+1649856311485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "10814" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofile88IBfv"
+1649856312195	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofile88IBfv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:10814/devtools/browser/aebb0562-79b6-48c9-8cd8-d40f8ea5a4cb
+1649856316166	Marionette	INFO	Listening on port 10841
+Read port: 10841
+1649856316265	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649856323923	Marionette	INFO	Stopped listening on port 10841
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
 
 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
 
-rofile?" (new NotFoundError("Could not open the file at C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofileGZmLRE\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:9623/devtools/browser/4cb0b173-90f7-4066-ace2-f11a9fca3c66
-1651144479041	Marionette	INFO	Listening on port 9650
-Read port: 9650
-1651144479138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650137037820	geckodriver	INFO	Listening on 127.0.0.1:2409
+1650137040910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2410" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofileHTxmXp"
+1650137042721	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofileHTxmXp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2410/devtools/browser/40c121de-56ce-4bcd-b6b1-1e7128b90ce1
+1650137045581	Marionette	INFO	Listening on port 2443
+Read port: 2443
+1650137045686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: uncaught exception: undefined
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
-JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
-JavaScript error: , line 0: uncaught exception: undefined
-JavaScript error: https://www.facebook.com/instagram/login_sync/, line 4: ReferenceError: requireLazy is not defined
-JavaScript error: https://www.facebook.com/instagram/login_sync/, line 9: ReferenceError: requireLazy is not defined
-JavaScript error: https://www.facebook.com/instagram/login_sync/, line 10: ReferenceError: requireLazy is not defined
-JavaScript error: https://www.facebook.com/instagram/login_sync/, line 11: ReferenceError: requireLazy is not defined
-1651144612089	Marionette	INFO	Stopped listening on port 9650
+1650137363447	Marionette	INFO	Stopped listening on port 2443
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-1651144620409	geckodriver	INFO	Listening on 127.0.0.1:9789
-1651144623501	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9790" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofileyJ49iQ"
-1651144624183	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofileyJ49iQ\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:9790/devtools/browser/73255cdc-57c7-41b2-80fe-fccaa9659f8d
-1651144626695	Marionette	INFO	Listening on port 9810
-Read port: 9810
-1651144626795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-JavaScript error: , line 0: uncaught exception: undefined
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
-JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
-JavaScript error: , line 0: uncaught exception: undefined
-1651144661523	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
-TimedPromise@chrome://remote/content/marionette/sync.js:220:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-JavaScript error: , line 0: uncaught exception: undefined
-SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
-Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
-onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
-Line: 567, column: 0
-console.error: ({})
-JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
-JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
-1651144778381	Marionette	INFO	Stopped listening on port 9810
-e-debugging-port" "5477" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofile6XCq1s"
-1651144778812	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofile6XCq1s\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:5477/devtools/browser/e2042b93-3577-4ed8-8165-84d962ee6a1b
-1651144781990	Marionette	INFO	Listening on port 5502
-Read port: 5502
-1651144782088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-JavaScript error: , line 0: uncaught exception: undefined
-1651144789213	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
-TimedPromise@chrome://remote/content/marionette/sync.js:220:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-1651144790504	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
-TimedPromise@chrome://remote/content/marionette/sync.js:220:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
-1651144791291	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
-TimedPromise@chrome://remote/content/marionette/sync.js:220:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
-JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
-JavaScript error: , line 0: uncaught exception: undefined
-1651144817030	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
-TimedPromise@chrome://remote/content/marionette/sync.js:220:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-JavaScript error: , line 0: uncaught exception: undefined
-1651145340244	Marionette	INFO	Stopped listening on port 5502
+1650137436461	geckodriver	INFO	Listening on 127.0.0.1:7528
+1650137439575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7529" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofileeqV3dn"
+1650137440229	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofileeqV3dn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:7529/devtools/browser/79104c96-e13e-4ae0-8054-b3f988b7fc40
+1650137442579	Marionette	INFO	Listening on port 7554
+Read port: 7554
+1650137442687	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650137518391	Marionette	INFO	Stopped listening on port 7554
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
 
 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
 
-le6TsWUf"
-1651145236284	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofile6TsWUf\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:13043/devtools/browser/58618be0-44a3-4954-a393-1ea3f3c20911
-1651145238988	Marionette	INFO	Listening on port 13065
-Read port: 13065
-1651145239091	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650137827003	geckodriver	INFO	Listening on 127.0.0.1:11249
+1650137830105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "11250" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofileY6pOLe"
+1650137830807	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofileY6pOLe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:11250/devtools/browser/61bdd4e1-f39c-4f19-8f3e-02d69e42e6ff
+1650137833257	Marionette	INFO	Listening on port 11276
+Read port: 11276
+1650137833338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650137854733	Marionette	INFO	Stopped listening on port 11276
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650137864569	geckodriver	INFO	Listening on 127.0.0.1:11724
+1650137867669	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "11725" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofileLSblPA"
+1650137868347	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofileLSblPA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:11725/devtools/browser/3a3667ca-6c9f-459b-9296-8ad39119d410
+1650137870773	Marionette	INFO	Listening on port 11752
+Read port: 11752
+1650137870802	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650137888966	Marionette	INFO	Stopped listening on port 11752
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650137896751	geckodriver	INFO	Listening on 127.0.0.1:1913
+1650137899867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1914" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofiletVS1Ro"
+1650137900606	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofiletVS1Ro\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:1914/devtools/browser/3685e627-d08d-4a62-8b47-7814af2eda1d
+1650137903268	Marionette	INFO	Listening on port 2330
+Read port: 2330
+1650137903369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: uncaught exception: undefined
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
-JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
-JavaScript error: , line 0: uncaught exception: undefined
-JavaScript error: , line 0: uncaught exception: undefined
-JavaScript error: , line 0: uncaught exception: undefined
-SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
-Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
-onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
-Line: 567, column: 0
-console.error: ({})
-JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
-JavaScript error: https://www.instagram.com/static/bundles/es6/DirectMQTT.js/24dd800faf34.js, line 20: Error: Publish Timed Out
-Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 990"  data: no]
-Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:990:5
-_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:563:14
-NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:672:12
-exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
-Line: 990, column: 0
-console.error: ({})
-Handler function threw an exception: TypeError: undefined has no properties
-Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1089:1
-_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1314:28
-_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1037:27
-_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:566:14
-NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:672:12
-exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
-Line: 1089, column: 1
-console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1089))
-JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
-1651148135887	Marionette	INFO	Stopped listening on port 13065
-1651148139931	geckodriver	INFO	Listening on 127.0.0.1:11958
-1651148143027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "11959" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofileuu6JIm"
-1651148143718	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofileuu6JIm\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:11959/devtools/browser/7c39b90a-4f6e-4533-bb86-6d29eccc1616
-1651148146145	Marionette	INFO	Listening on port 11993
-Read port: 11993
-1651148146250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-JavaScript error: , line 0: uncaught exception: undefined
-1651148157604	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
-TimedPromise@chrome://remote/content/marionette/sync.js:220:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-1651148158337	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
-TimedPromise@chrome://remote/content/marionette/sync.js:220:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-1651148159165	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
-TimedPromise@chrome://remote/content/marionette/sync.js:220:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
-1651148159974	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
-TimedPromise@chrome://remote/content/marionette/sync.js:220:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
-JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
-JavaScript error: , line 0: uncaught exception: undefined
-JavaScript error: , line 0: uncaught exception: Object
-1651148185713	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
-TimedPromise@chrome://remote/content/marionette/sync.js:220:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-JavaScript error: , line 0: uncaught exception: undefined
-JavaScript error: , line 0: uncaught exception: undefined
-1651148268603	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
-TimedPromise@chrome://remote/content/marionette/sync.js:220:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
-Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
-onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
-Line: 567, column: 0
-console.error: ({})
-JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
-JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
-1651148531981	Marionette	INFO	Stopped listening on port 11993
+1650137910788	Marionette	INFO	Stopped listening on port 2330
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
 
 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
 
-1651148535757	geckodriver	INFO	Listening on 127.0.0.1:1316
-1651148538858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1317" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofileC87oyu"
-1651148539468	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofileC87oyu\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:1317/devtools/browser/3d638d2a-5b04-408c-af8e-17d05e17e6a7
-1651148541810	Marionette	INFO	Listening on port 1343
-Read port: 1343
-1651148541869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651088000345	geckodriver	INFO	Listening on 127.0.0.1:11597
+1651088003392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "11598" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofile1IEcvB"
+1651088004437	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofile1IEcvB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:11598/devtools/browser/b00db7ed-4017-4260-9295-fd907078d5c2
+1651088007992	Marionette	INFO	Listening on port 11638
+Read port: 11638
+1651088008082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
 console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
 JavaScript error: , line 0: uncaught exception: undefined
-1651148570664	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
-TimedPromise@chrome://remote/content/marionette/sync.js:220:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-1651148571906	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
-TimedPromise@chrome://remote/content/marionette/sync.js:220:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
-1651148572708	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
-TimedPromise@chrome://remote/content/marionette/sync.js:220:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-1651148606600	Marionette	INFO	Stopped listening on port 1343
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-1651148613170	geckodriver	INFO	Listening on 127.0.0.1:12600
-1651148616278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "12601" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofileATWSqa"
-1651148617096	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofileATWSqa\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:12601/devtools/browser/52ecae7a-f1b1-4ae3-9946-b42ffc31677b
-1651148619637	Marionette	INFO	Listening on port 12622
-Read port: 12622
-1651148619715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-JavaScript error: , line 0: uncaught exception: undefined
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
-JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
-JavaScript error: , line 0: uncaught exception: undefined
-JavaScript error: , line 0: uncaught exception: undefined
-JavaScript error: , line 0: uncaught exception: undefined
 SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
 Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
 onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
 Line: 567, column: 0
 console.error: ({})
 JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
-JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
 SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
 Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
 onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
 Line: 567, column: 0
 console.error: ({})
 JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
-console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
-TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
-onMutations@resource://devtools/client/inspector/shared/style-change-tracker1651149787786	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofilecIvHYi\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:13796/devtools/browser/0f9dacf0-5b52-4102-87f0-10d00aa12c51
-1651149790633	Marionette	INFO	Listening on port 13822
-Read port: 13822
-1651149790706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-JavaScript error: , line 0: uncaught exception: undefined
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
-JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
-JavaScript error: , line 0: uncaught exception: undefined
-JavaScript error: , line 0: uncaught exception: undefined
-1651149845338	Marionette	INFO	Stopped listening on port 13822
+1651088810807	geckodriver	INFO	Listening on 127.0.0.1:2437
+1651088813908	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2438" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofileytKKkK"
+1651088814517	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofileytKKkK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:2438/devtools/browser/f629db8c-7ed6-49b5-959b-0d2904ab568f
+1651088817067	Marionette	INFO	Listening on port 2461
+Read port: 2461
+1651088817117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-1651149864657	geckodriver	INFO	Listening on 127.0.0.1:4194
-1651149867730	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "4195" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofile58Fufz"
-1651149868437	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\edr\\AppData\\Local\\Temp\\rust_mozprofile58Fufz\\search.json.mozlz4", (void 0)))
-DevTools listening on ws://localhost:4195/devtools/browser/543621a6-ca15-46ac-ab27-4a0abba59766
-1651149870953	Marionette	INFO	Listening on port 4216
-Read port: 4216
-1651149871077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: uncaught exception: undefined
-1651149877139	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
-TimedPromise@chrome://remote/content/marionette/sync.js:220:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-1651149877877	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
-TimedPromise@chrome://remote/content/marionette/sync.js:220:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
-1651149879011	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
-TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
-TimedPromise@chrome://remote/content/marionette/sync.js:220:10
-interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
-webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
-JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
-JavaScript error: , line 0: uncaught exception: undefined
-JavaScript error: , line 0: uncaught exception: undefined
-JavaScript error: , line 0: uncaught exception: undefined
-1651149974907	Marionette	INFO	Stopped listening on port 4216
+1651088855245	Marionette	INFO	Stopped listening on port 2461
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
