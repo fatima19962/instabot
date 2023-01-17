@@ -27,11 +27,11 @@ class BOT():
             By.CSS_SELECTOR, 'div.-MzZI:nth-child(1) > div:nth-child(1) > label:nth-child(1) > input:nth-child(2)')))
         # user_id=self.driver.find_element_by_css_selector('div.-MzZI:nth-child(1) > div:nth-child(1) > label:nth-child(1) > input:nth-child(2)')
         user_id.click()
-        user_id.send_keys('monof62')
+        user_id.send_keys('enter ypur username')
         user_pass = self.driver.find_element_by_css_selector(
             'div.-MzZI:nth-child(2) > div:nth-child(1) > label:nth-child(1) > input:nth-child(2)')
         user_pass.click()
-        user_pass.send_keys('fa4420587490')
+        user_pass.send_keys('enter your password')
 
         btn = self.driver.find_element_by_css_selector(
             '.sqdOP > div:nth-child(1)')
